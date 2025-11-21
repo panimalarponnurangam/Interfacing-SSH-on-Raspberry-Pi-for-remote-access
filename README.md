@@ -1,7 +1,8 @@
 # Experiment-No.-05-Interfacing-SSH-on-Raspberry-Pi-for-remote-access-
-### NAME
-### ROLL NO:
-### DEPARTMENT 
+### NAME: PANIMALAR p
+### ROLL NO:212222110031 
+### DEPARTMENT: B.E-CSE(IoT)
+
 ### DATE
 
 
@@ -72,6 +73,7 @@ On Linux/macOS:
 
 ![image](https://github.com/user-attachments/assets/0ca3336d-608d-4490-a4a8-fe751b99c3e5)
 
+<img width="3839" height="2159" alt="Screenshot 2025-09-20 161141" src="https://github.com/user-attachments/assets/79f56619-8164-4f3d-95c0-41de99c57b01" />
 
 
 ## RESULT:
