@@ -73,7 +73,11 @@ On Linux/macOS:
 
 ![image](https://github.com/user-attachments/assets/0ca3336d-608d-4490-a4a8-fe751b99c3e5)
 
-<img width="3839" height="2159" alt="Screenshot 2025-09-20 161141" src="https://github.com/user-attachments/assets/79f56619-8164-4f3d-95c0-41de99c57b01" />
+
+<img src="https://github.com/user-attachments/assets/79f56619-8164-4f3d-95c0-41de99c57b01" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0814a21c-d94d-412a-84fa-44801dd62e44" />
+
+<img width="1919" height="1079" alt="508818917-57e100ef-bd41-45bb-aae5-2a7dd3d01b17" src="https://github.com/user-attachments/assets/20360c51-00ee-436c-bf1d-05276feaaf08" />
 
 
 ## RESULT:
